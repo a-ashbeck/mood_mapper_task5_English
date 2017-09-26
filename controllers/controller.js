@@ -39,7 +39,27 @@ module.exports = function(app) {
             q17: survey.q17,
             q18: survey.q18,
             q19: survey.q19,
-            q20: survey.q20
+            q20: survey.q20,
+            f1: survey.f1,
+            f2: survey.f2,
+            f3: survey.f3,
+            f4: survey.f4,
+            f5: survey.f5,
+            f6: survey.f6,
+            f7: survey.f7,
+            f8: survey.f8,
+            f9: survey.f9,
+            f10: survey.f10,
+            f11: survey.f11,
+            f12: survey.f12,
+            f13: survey.f13,
+            f14: survey.f14,
+            f15: survey.f15,
+            f16: survey.f16,
+            f17: survey.f17,
+            f18: survey.f18,
+            f19: survey.f19,
+            f20: survey.f20
         }).then(function() {
             response.redirect('/'); 
             // look into this
