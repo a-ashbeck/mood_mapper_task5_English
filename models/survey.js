@@ -95,6 +95,86 @@ module.exports = function(sequelize, DataTypes) {
         q20: {
             type: DataTypes.INTEGER,
             allowNull: false
+        },
+        f1: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f2: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f3: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f4: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f5: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f6: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f7: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f8: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f9: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f10: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f11: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f12: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f13: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f14: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f15: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f16: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f17: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f18: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f19: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        },
+        f20: {
+            type: DataTypes.INTEGER,
+            allowNull: false
         }
     });
     // Returns the model
