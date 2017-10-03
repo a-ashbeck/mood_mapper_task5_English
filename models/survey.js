@@ -16,6 +16,14 @@ module.exports = function(sequelize, DataTypes) {
             type: DataTypes.INTEGER,
             allowNull: false
         },
+        country: {
+            type: DataTypes.STRING,
+            defaultValue: "Unknown"
+        },
+        startTime: {
+            type: DataTypes.BIGINT,
+            allowNull: false
+        },
         q1: {
             type: DataTypes.INTEGER,
             allowNull: false
